@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="TBCPP_02_Floyd%27s_Triangle_BruteForce.cpp" />
     <ClCompile Include="TBCPP_02_Floyd%27s_Triangle_Formula.cpp" />
+    <ClCompile Include="TBCPP_02_Floyd%27s_Triangle_Formula_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,8 @@
     <ClCompile Include="TBCPP_02_Floyd%27s_Triangle_Formula.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TBCPP_02_Floyd%27s_Triangle_Formula_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

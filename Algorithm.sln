@@ -13,8 +13,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_03_Finding_Num", "TBC
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_Lecture_01_Pointer", "TBCPP_Lecture_01_Pointer\TBCPP_Lecture_01_Pointer.vcxproj", "{661AB7FE-8763-490A-9085-D9DB6888D2D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_Lecture_03_String", "..\TBCPP_Lecture_03_String\TBCPP_Lecture_03_String.vcxproj", "{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_Lecture_04_dynamicAssignment", "TBCPP_Lecture_04_dynamicAssignment\TBCPP_Lecture_04_dynamicAssignment.vcxproj", "{521D68BF-7162-4931-AE1F-4E35045E62F7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_Lecture_02_Function", "TBCPP_Lecture_02_Function\TBCPP_Lecture_02_Pointer.vcxproj", "{F801B17C-C994-4654-98ED-2BE7CC65B639}"
@@ -22,6 +20,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TBCPP_Lecture_05_Structure", "..\TBCPP_Lecture_05_Structure\TBCPP_Lecture_05_Structure.vcxproj", "{B160AD7B-C429-4680-BFF0-1B907669C049}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BD_00_complexity", "BD_00_complexity\BD_00_complexity.vcxproj", "{666FD0B8-2163-4150-922C-A1ADF4F4C66E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_01_02_Init", "BKDG_01_02_Init\BKDG_01_02_Init.vcxproj", "{CC156978-9F86-47E9-B7FB-FED7105712AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,14 +71,6 @@ Global
 		{661AB7FE-8763-490A-9085-D9DB6888D2D5}.Release|x64.Build.0 = Release|x64
 		{661AB7FE-8763-490A-9085-D9DB6888D2D5}.Release|x86.ActiveCfg = Release|Win32
 		{661AB7FE-8763-490A-9085-D9DB6888D2D5}.Release|x86.Build.0 = Release|Win32
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Debug|x64.ActiveCfg = Debug|x64
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Debug|x64.Build.0 = Debug|x64
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Debug|x86.ActiveCfg = Debug|Win32
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Debug|x86.Build.0 = Debug|Win32
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Release|x64.ActiveCfg = Release|x64
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Release|x64.Build.0 = Release|x64
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Release|x86.ActiveCfg = Release|Win32
-		{9384FCA8-1E41-4DA2-829F-6AB78A87EB80}.Release|x86.Build.0 = Release|Win32
 		{521D68BF-7162-4931-AE1F-4E35045E62F7}.Debug|x64.ActiveCfg = Debug|x64
 		{521D68BF-7162-4931-AE1F-4E35045E62F7}.Debug|x64.Build.0 = Debug|x64
 		{521D68BF-7162-4931-AE1F-4E35045E62F7}.Debug|x86.ActiveCfg = Debug|Win32

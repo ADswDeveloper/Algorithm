@@ -124,6 +124,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BKDG_03_Array.cpp" />
+    <ClCompile Include="BOJ_10808.cpp" />
+    <ClCompile Include="Pracetice2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

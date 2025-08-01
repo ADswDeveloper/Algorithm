@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_03_Array", "BKDG_03_Ar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_02_STL", "BKDG_02_STL\BKDG_02_STL.vcxproj", "{0D528198-6D3F-4311-8760-B80565B62079}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_04_List", "BKDG_04_List\BKDG_04_List.vcxproj", "{13D4C21B-39E1-4309-8382-783741D58386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{0D528198-6D3F-4311-8760-B80565B62079}.Release|x64.Build.0 = Release|x64
 		{0D528198-6D3F-4311-8760-B80565B62079}.Release|x86.ActiveCfg = Release|Win32
 		{0D528198-6D3F-4311-8760-B80565B62079}.Release|x86.Build.0 = Release|Win32
+		{13D4C21B-39E1-4309-8382-783741D58386}.Debug|x64.ActiveCfg = Debug|x64
+		{13D4C21B-39E1-4309-8382-783741D58386}.Debug|x64.Build.0 = Debug|x64
+		{13D4C21B-39E1-4309-8382-783741D58386}.Debug|x86.ActiveCfg = Debug|Win32
+		{13D4C21B-39E1-4309-8382-783741D58386}.Debug|x86.Build.0 = Debug|Win32
+		{13D4C21B-39E1-4309-8382-783741D58386}.Release|x64.ActiveCfg = Release|x64
+		{13D4C21B-39E1-4309-8382-783741D58386}.Release|x64.Build.0 = Release|x64
+		{13D4C21B-39E1-4309-8382-783741D58386}.Release|x86.ActiveCfg = Release|Win32
+		{13D4C21B-39E1-4309-8382-783741D58386}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

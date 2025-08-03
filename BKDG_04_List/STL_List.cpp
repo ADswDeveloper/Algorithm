@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(void) {
+int main3(void) {
     //list<int> L = { 1,2 }; // 1 2
     //list<int>::iterator t = L.begin(); // t는 1을 가리키는 중
 
@@ -38,7 +38,6 @@ int main(void) {
     
     for (int i : L) cout << i << ' ';
     cout << '\n';
-
 
     return 0;
 }

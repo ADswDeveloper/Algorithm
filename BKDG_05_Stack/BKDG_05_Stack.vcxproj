@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{13d4c21b-39e1-4309-8382-783741d58386}</ProjectGuid>
-    <RootNamespace>BKDG04List</RootNamespace>
+    <ProjectGuid>{79ea3dd8-0386-45a5-88ff-273e8f97a79d}</ProjectGuid>
+    <RootNamespace>BKDG05Stack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,10 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BKDG_04_List.cpp" />
-    <ClCompile Include="BOJ_1406_Editor.cpp" />
-    <ClCompile Include="ListTest.cpp" />
-    <ClCompile Include="STL_List.cpp" />
+    <ClCompile Include="BKDG_05_Stack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -37,7 +37,8 @@ void test()
     cout << back() << '\n'; // 25
 }
 
-int main()
+int main2()
 {
     test();
+    return 0;
 }

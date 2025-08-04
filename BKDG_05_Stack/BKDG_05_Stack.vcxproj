@@ -124,6 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BKDG_05_Stack.cpp" />
+    <ClCompile Include="BOJ_10828_Manual.cpp" />
+    <ClCompile Include="BOJ_10828_STL.cpp" />
+    <ClCompile Include="Stack_STL.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

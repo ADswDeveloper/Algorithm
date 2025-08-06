@@ -126,6 +126,7 @@
     <ClCompile Include="BKDG_08_BFS_Std.cpp" />
     <ClCompile Include="BOJ_1926.cpp" />
     <ClCompile Include="BOJ_2178.cpp" />
+    <ClCompile Include="BOJ_7576.cpp" />
     <ClCompile Include="pair_guideline.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

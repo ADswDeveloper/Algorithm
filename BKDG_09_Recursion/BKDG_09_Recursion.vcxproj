@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{478dd3b9-9fb9-4b48-a6be-7813709162ff}</ProjectGuid>
-    <RootNamespace>BKDG08BFSStd</RootNamespace>
+    <ProjectGuid>{e1941e50-c857-4074-a47b-dc91c4f680de}</ProjectGuid>
+    <RootNamespace>BKDG09Recursion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,12 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BKDG_08_BFS_Std.cpp" />
-    <ClCompile Include="BOJ_1926.cpp" />
-    <ClCompile Include="BOJ_2178.cpp" />
-    <ClCompile Include="BOJ_4179_fire.cpp" />
-    <ClCompile Include="BOJ_7576.cpp" />
-    <ClCompile Include="pair_guideline.cpp" />
+    <ClCompile Include="BKDG_09_Recursion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

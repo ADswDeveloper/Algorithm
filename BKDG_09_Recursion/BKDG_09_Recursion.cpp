@@ -18,7 +18,7 @@ void func(int a, int b, int n)
 }
 
 
-int main()
+int main1()
 {
     ios::sync_with_stdio(0);
     cin.tie(0);
@@ -27,5 +27,6 @@ int main()
     cin >> k;
     cout << (1 << k) - 1 << '\n';
     func(1, 3, k);
+    return 0;
 }
 

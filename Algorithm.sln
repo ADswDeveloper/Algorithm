@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_08_BFS_Std", "BKDG_08_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_09_Recursion", "BKDG_09_Recursion\BKDG_09_Recursion.vcxproj", "{E1941E50-C857-4074-A47B-DC91C4F680DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BKDG_10_BackTracking", "BackTracking\BackTracking.vcxproj", "{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{E1941E50-C857-4074-A47B-DC91C4F680DE}.Release|x64.Build.0 = Release|x64
 		{E1941E50-C857-4074-A47B-DC91C4F680DE}.Release|x86.ActiveCfg = Release|Win32
 		{E1941E50-C857-4074-A47B-DC91C4F680DE}.Release|x86.Build.0 = Release|Win32
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Debug|x64.ActiveCfg = Debug|x64
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Debug|x64.Build.0 = Debug|x64
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Debug|x86.Build.0 = Debug|Win32
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Release|x64.ActiveCfg = Release|x64
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Release|x64.Build.0 = Release|x64
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Release|x86.ActiveCfg = Release|Win32
+		{7ECA29C3-B989-4BB2-B307-B64732FDA7BF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

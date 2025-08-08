@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e1941e50-c857-4074-a47b-dc91c4f680de}</ProjectGuid>
-    <RootNamespace>BKDG09Recursion</RootNamespace>
+    <ProjectGuid>{7eca29c3-b989-4bb2-b307-b64732fda7bf}</ProjectGuid>
+    <RootNamespace>BackTracking</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>BKDG_10_BackTracking</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -123,8 +124,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BKDG_09_Recursion.cpp" />
-    <ClCompile Include="BOJ_1074.cpp" />
+    <ClCompile Include="BOJ_15649_NM.cpp" />
+    <ClCompile Include="BOJ_9663.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -10,7 +10,7 @@ int head = MX, tail = MX;
 void push_front(int x)
 {
     dat[--head] = x;
-}
+}w
 
 void push_back(int x)
 {
